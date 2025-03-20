@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f492da71a45e63c419dce660be0d4e16
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 24708
+  packageName: Rocky Meadow Assets
+  packageVersion: 1.2
+  assetPath: Assets/meadow_assets/Rocks/Lod/rockClusterClumped_lod.prefab
+  uploadId: 39686

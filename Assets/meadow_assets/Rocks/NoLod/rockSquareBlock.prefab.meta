@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63812b6704057ba44a69b0a229c0108a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 24708
+  packageName: Rocky Meadow Assets
+  packageVersion: 1.2
+  assetPath: Assets/meadow_assets/Rocks/NoLod/rockSquareBlock.prefab
+  uploadId: 39686

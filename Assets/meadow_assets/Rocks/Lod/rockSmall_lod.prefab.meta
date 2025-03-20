@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 064d7551a2483db4ca71b7b2dcb83bc8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 24708
+  packageName: Rocky Meadow Assets
+  packageVersion: 1.2
+  assetPath: Assets/meadow_assets/Rocks/Lod/rockSmall_lod.prefab
+  uploadId: 39686

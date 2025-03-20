@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95aa9e6056017034a9013be955d448fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 24708
+  packageName: Rocky Meadow Assets
+  packageVersion: 1.2
+  assetPath: Assets/meadow_assets/Rocks/NoLod/rockClusterDirectional.prefab
+  uploadId: 39686
